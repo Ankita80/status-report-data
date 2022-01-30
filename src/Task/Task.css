@@ -1,0 +1,15 @@
+.incomplete {
+    background-color: red !important;
+}
+
+.complete {
+    background-color: green !important;
+}
+
+.in-progress {
+    background-color: yellow !important;
+}
+
+.card-container {
+ margin: 1em;
+}
